@@ -1,0 +1,421 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Statute-laws perused and revived, or, A Remedy against pedlers, hawkers, and petty chapmen &amp;c. fit to be known by all constables and other parish-officers, also by the ministers in the countrey, and all other persons whatsoever.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 44 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61361</idno>
+            <idno type="STC">Wing S5338</idno>
+            <idno type="STC">ESTC R35204</idno>
+            <idno type="EEBO-CITATION">15069331</idno>
+            <idno type="OCLC">ocm 15069331</idno>
+            <idno type="VID">103151</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61361)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103151)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1579:28)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Statute-laws perused and revived, or, A Remedy against pedlers, hawkers, and petty chapmen &amp;c. fit to be known by all constables and other parish-officers, also by the ministers in the countrey, and all other persons whatsoever.</title>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by Brab. Aylmer ... William Miller ... Daniel Browne ... and by several other booksellers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed July 22, 1693."</note>
+                  <note>"Price Six Pence."</note>
+                  <note>Reproduction of original in the Harvard Law School Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Peddlers and peddling --  Law and legislation --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103151:1"/>
+            <pb facs="tcp:103151:1" rendition="simple:additions"/>
+            <p>THE STATUTE-LAWS PERUSED and REVIVED: OR, A REMEDY AGAINST PEDLERS, HAWKERS, AND Petty Chapmen, &amp;c.</p>
+            <p>Fit to be KNOWN by All CONSTABLES <hi>and Other</hi> PARISH-OFFICERS, ALSO BY THE MINISTERS
+<hi>in the Countrey, and all Other</hi> Perſons <hi>whatſoever.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>LICENCED,</p>
+                        <closer>
+                           <date>
+                              <hi>July</hi> 22. 1693</date>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>LONDON: Printed and are to be ſold by</hi> Brab. Aylmer <hi>at the</hi> Three Pidgeons
+<hi>in</hi> Cornhill, <hi>over againſt the</hi> Exchange; William Miller <hi>at the</hi> Achorn
+<hi>in</hi> St. Paul's Church-Yard; Daniel Browne <hi>at the</hi> Bible <hi>and black</hi> Swan
+<hi>without</hi> Temple-Bar; <hi>and by ſeveral other</hi> Bookſellers. 1693.</p>
+            <p>Price Six Pence.</p>
+         </div>
+      </front>
+      <body>
+         <div type="bill">
+            <pb facs="tcp:103151:2" rendition="simple:additions"/>
+            <pb facs="tcp:103151:2"/>
+            <head>
+               <figure>
+                  <figDesc>blazon or coat of arms of the City of London</figDesc>
+               </figure> Fleet Mayor.</head>
+            <head type="sub">A <hi>BILL</hi> for Prevention of <hi>Pedlers, Petty Chap<g ref="char:EOLhyphen"/>men,</hi> and other
+<hi>Unlawful Traders,</hi> Wandring about within the <hi>CITY</hi> of <hi>LONDON</hi> and the
+<hi>Liberties</hi> thereof.</head>
+            <head type="sub">As the ſame was Settled and Approved by <hi>Advice</hi> of divers <hi>Learned Councel,</hi> and accordingly Re<g ref="char:EOLhyphen"/>ported by the <hi>Committee</hi> the ſecond Time, the 20th Day of <hi>June, 1693.</hi>
+            </head>
+            <p>WHEREAS by the Laws and Statutes of this Realm, amongſt other Things it is Enacted, Ordained, and Declar'd, That all <hi>Pedlers</hi> and <hi>Petty Chapmen,</hi> Wandring Abroad, ſhall be Taken, Adjudged, and Deem'd Rogues and Sturdy Beggers, and ſhall be Taken and Ap<g ref="char:EOLhyphen"/>prehended, and be Stripped Naked from the Middle upwards, and be openly Whipped, until his or her Body be Bloody, and ſhall be further Dealt with, as in and by the ſaid Laws and Statutes is Directed and Appointed. <hi>And Whereas,</hi> Alſo great Numbers of Vagrant and Idle Perſons, both Men and Women, either Unſet<g ref="char:EOLhyphen"/>tled, and having no Habitation, or Wandring and Roving from the Places of their Abode and Habitations, do daily Reſort to this City and the Liberties thereof, as
+<hi>Pedlers</hi> and <hi>Petty Chapmen,</hi> Wandring up and down, Selling or offering to Sale divers ſorts and kinds of ſmall Wares, and other Goods and Merchandizes, Contrary to, and in Contempt of the ſaid Good and Wholſome Laws and Statutes, and alſo contrary to the Welfare and Good Government of this City, and to the Manifeſt Loſs, Dammage and Detriment of the Honeſt and Induſtrious Shop-keepers, Tradeſ<g ref="char:EOLhyphen"/>men, and Inhabitants thereof; For Prevention whereof for the Time to come, and for the better and more effectual Repreſſing the Miſchiefs aforeſaid, Be it Enacted and Ordained; and it is here<g ref="char:EOLhyphen"/>by Enacted and Ordained by the Right Honourable the Lord Mayor, the Right Worſhipful the Aldermen his Brethren, and the Commons in Common-Councel Aſſembled, That the ſaid Statutes ſhall from henceforth be ſtrictly and duly put in Execution againſt all ſuch Offenders within this City and the Liberties thereof: And
+<pb n="2" facs="tcp:103151:3"/> to that End and Purpoſe, That all Conſtables and other Inferiour Officers within this City and the Liberties thereof, ſhall Seize, Take, and Apprehend all ſuch Vagrant and Wandring Perſons, going and Wandring About within this City and the Liberties thereof; or any of the Streets, Lanes, Allies, Paſſages, or Places within the ſame, Selling, or expoſing to Sale any manner of Wares or Com<g ref="char:EOLhyphen"/>modities whatſoever; and Inflict the Puniſhments by the ſaid Sta<g ref="char:EOLhyphen"/>tutes appointed on ſuch Offenders, and deal with, or cauſe ſuch Offenders to be ſtrictly and ſeverely dealt with as by the ſaid Statutes are directed and appointed.
+<hi>And</hi> that in caſe any Conſtable or other Inferiour Officer ſhall willfully neglect or refuſe to do and perform his Duty therein, that then, and in ſuch Caſe, the Penalty of 20
+<abbr>
+                  <hi>s.</hi>
+               </abbr> for every ſuch Offence, ſhall be Levied upon him ſo Of<g ref="char:EOLhyphen"/>fending, as by the ſaid Laws and Statutes is directed and appoint<g ref="char:EOLhyphen"/>ed. And further, That the Sum of 5
+<abbr>
+                  <hi>l.</hi>
+               </abbr> ſhall be Required and Le<g ref="char:EOLhyphen"/>vied, and Received of and upon every Perſon and Perſons who ſhall lett or hinder the due Execution of the ſaid Laws and Statutes, as by the ſaid Laws and Statutes is alſo Enacted and Ordained.</p>
+            <p>
+               <hi>And Whereas,</hi> alſo by the ancient and laudable Cuſtoms of this City, no Wares, Goods, or Merchandizes whatſoever, ought to be Bought or Sold, or expoſed to Sale within this City or the Li<g ref="char:EOLhyphen"/>berties thereof (ſave only in Publick Markets or in open Shops or Ware-houſes, kept and uſed for that Purpoſe, and Fairs) during the time of ſuch Markets and Fairs only: Yet, nevertheleſs, divers and ſundry Lew'd, and Idle, and Diſorderly Perſons Lodging or Living within the ſaid City and the Liberties thereof, or near Neighbour<g ref="char:EOLhyphen"/>hoods or Places thereunto adjoyning, do frequently Sell, or expoſe to Sale divers Goods, Wares, and Merchandizes, as <hi>Hawkers</hi> and <hi>Petty Chapmen;</hi> Going and Wandring in the Streets, Lanes, Allies, and other Places thereof, from Houſe to Houſe, and from Door to Door, contrary to the ſaid good, laudible, and profitable Cu<g ref="char:EOLhyphen"/>ſtoms of this City; by Reaſon whereof, the Citizens, Shop<g ref="char:EOLhyphen"/>keepers, and Inhabitants of the ſaid City, are not only greatly Hindered and Prejudiced in their Trades and Occupations, but alſo many of Their Majeſties good Subjects Inhabiting and Reſiding within the ſaid City and the Liberties thereof; and others Reſort<g ref="char:EOLhyphen"/>ing thereunto, are frequently Cheated, and Defrauded, and Abuſed in buying bad and deceitful Wares and Commodities of them; For Prevention whereof for the Time to come, and for the better and more effectual putting in Execution the ſaid antient and laudible Cuſtoms of this City, againſt ſuch Offenders as aforeſaid: Be it further Enacted and Ordained, and it is hereby Enacted and Or<g ref="char:EOLhyphen"/>dained
+<pb n="3" facs="tcp:103151:3"/> by the ſaid Lord Mayor, and the ſaid Aldermen his Brethren, and the ſaid Commons in Common-Councel Aſſembled, That from and after the Firſt Day of <hi>Auguſt</hi> now next enſuing, no Perſon or Perſons whatſoever ſhall Sell, or expoſe to Sale any Goods, Wares, or Merchandizes in any Street, Lane, Publick Paſſage, Tavern, Inn, Ale-Houſe, Coffee-Houſe, or other Pub<g ref="char:EOLhyphen"/>lick Place within this City or the Liberties thereof, unleſs it be in open Markets Appointed, Uſed, and Accuſtomed for the Vending thereof, or in Common and Publick Fairs, during the time of ſuch Markets and Fairs, upon pain to Pay and Forfeit the Sum of Forty Shillings for every Offence, by him, her, or them committed, contrary hereunto. And that no Perſon or Perſons within this City or the Liberties thereof, ſhall buy any ſuch Wares, Goods, or Com<g ref="char:EOLhyphen"/>modities ſo Expos'd by ſuch Perſon or Perſons to Sale, contrary to the true intent and meaning hereof, upon pain to Pay and Forfeit for every Offence by him her, or them committed, contrary hereunto, the like Sum of Forty Shillings. And for the better Pre<g ref="char:EOLhyphen"/>vention of the ſaid Miſchiefs for the future, it is hereby further Enacted and Ordained, That no Keeper, or Keepers of any Ta<g ref="char:EOLhyphen"/>vern, Inn, Ale-Houſe, Coffee-Houſe, or other Publick or Private Houſe whatſoever, within this City or the Liberties thereof, ſhall permit or ſuffer any ſuch
+<hi>Hawker,</hi> or <hi>Wandring Pedler,</hi> or <hi>Petty Chapmen,</hi> in his, her, or their Houſe, or Houſes, Shop, or Shops, or other Place or Places belonging to him, her, or them, to Sell, or expoſe to Sale, any ſmall Wares or other Goods or Merchan<g ref="char:EOLhyphen"/>dizes, contrary to the true intent and meaning of this preſent Law. <hi>And</hi> that in Caſe any ſuch keeper of any Tavern, Inn, Ale-Houſe, Coffee-Houſe, or other publick or private Houſe within this City, or the Liberties thereof, ſhall Offend therein, that then and in every ſuch Caſe, every ſuch Perſon and Perſons ſo Offend<g ref="char:EOLhyphen"/>ing, ſhall for every ſuch Offence Loſe, Forfeit, and Pay the Sum of Forty Shillings of lawful Engliſh Money. <hi>And</hi> it is here<g ref="char:EOLhyphen"/>by alſo further Enacted and Ordain'd, That for the better putting in Execution the Laws and Statutes of this Realm, a good and ſuf<g ref="char:EOLhyphen"/>ficient Whipping Poſt, and alſo a good and ſufficient pair of Stocks, at or before the ſaid Firſt Day of <hi>Auguſt</hi> ſhall be made, provided, and ſet up (if not already done) in ſome convenient and pub<g ref="char:EOLhyphen"/>lick Place in every reſpective Ward within this City; and ſhall be from time to time kept in good and ſufficient Repair, at the Coſts and Charges of the ſeveral and reſpective Wards of this City.</p>
+            <p>
+               <pb n="4" facs="tcp:103151:4"/>And it is hereby further Enacted and Ordain'd by the Authority aforeſaid, That all and every the Forfeitures, Penalties, Sum, and Sums of Money ſo Forfeited, and to be paid by Force and Virtue of this preſent Act, as aforeſaid, ſhall and may be Sued for, and Recovered by Action or Actions of Debt, to be brought and pro<g ref="char:EOLhyphen"/>ſecuted in the Names of the Chamberlain of this City, for the time being, in any of Their Majeſties Courts of Record within this City, where Actions of Debt may be brought; and that the Sum and Sums ſo recovered (the Coſts of ſuch Suits being firſt deducted) ſhall be diſpoſed of as followeth, <hi>Viz.</hi> One Moiety to the uſe of the Mayor and Commonalty and Citizens of this City, and the other Moiety to him or them that will firſt Diſcover and Sue for the ſame, according to the ancient Cuſtom of this City in that behalf.</p>
+            <p>
+               <hi>Provided</hi> always nevertheleſs, That this preſent Act or any Thing therein contained, ſhall not extend to or be conſtrued or taken to hinder or prevent any Maker or Makers of any Stuffs, Silks, Wares, or Goods whatſoever, from carrying, or cauſing to be carried abroad, any ſuch Goods by him or them ſo made, to Sell or expoſe to Sale to any the Inhabitants, Freemen of this City, or the Liberties thereof, exerciſing the Trade of Selling, and uttering by Retail or Wholeſale ſuch reſpective Goods and Wares, who ſhall or may Buy the ſame to Sell again, any thing in this preſent Act contained to the contrary thereof, in any wiſe notwithſtanding.</p>
+            <p>And whereas, alſo divers good Acts have been heretofore made, and are ſtill in force, to prevent the irregular and diſorderly Sell<g ref="char:EOLhyphen"/>ing or expoſing to Sale out of the lawful Markets, Fiſh, Fruits, Roots, Herbs, and Plants, under ſevere Penalties; therefore it is hereby Declared and Provided, That no new or further Penalty Impoſed by this preſent Act, ſhall extend to any Perſon or Perſons Inhabiting in this City or the Liberties thereof, for ſelling or ex<g ref="char:EOLhyphen"/>poſing to Sale any of the ſaid Goods, or to Prohibit any Perſon or Perſons from buying any of the ſame.</p>
+            <div type="notes">
+               <p>What Alterations may happen before the Paſſing, by the various Intereſts or Opinions in
+<hi>Common-Councel,</hi> ſhall be duly Noted and Adviſed of.</p>
+               <p>The City and Countrey preſs ſo hard on our Promiſe in <hi>April</hi> laſt, for an Account of all theſe Affairs following, That we could not ſtay any longer, tho' this
+<hi>BILL</hi> is ready to paſs into an <hi>ACT,</hi> as above.</p>
+               <p>Whoſoever ſhall know of any Money Forfeited by willful Breach of this <hi>BILL</hi> or
+<hi>ACT</hi> (when Paſſed) and will not themſelves Proſecute, are deſired but to ſend the needful Particulars in a Letter to Mr. <hi>Holt</hi> and <hi>Company,</hi> and all due Care will be taken thereof.</p>
+            </div>
+         </div>
+         <div type="abstract">
+            <pb n="5" facs="tcp:103151:4"/>
+            <head>An <hi>ABSTRACT</hi> of the <hi>CASE</hi> of the <hi>Cities, Cor<g ref="char:EOLhyphen"/>porations,</hi> and
+<hi>Market-Towns</hi> of <hi>England;</hi> of the preſent <hi>Act of the Common-Councel</hi> of
+<hi>London;</hi> of the late <hi>BILL</hi> in <hi>Parliament;</hi> of the <hi>Preſent Laws againſt Pedlers,</hi> &amp;c. with Plain <hi>Directions</hi> for putting the ſame in Execution. Abſtracted from the various <hi>Writings, Prints,</hi> and <hi>Proceedings</hi> followed on that Occaſion, thro' all kinds of Difficulties, with all Di<g ref="char:EOLhyphen"/>ligence and Faithfulneſs, for theſe Four Years laſt paſt; by which all known Objections are Anſwer'd, and Matters of Fact Atteſted at large. To, For, and By <hi>RICHARD HOLT</hi> and <hi>Company,</hi> who have been at the Whole and Continual Charge thereof, and now humbly Dedicate the ſame to all Perſons, who are Generouſly Inclined, for the <hi>PUBLICK GOOD.</hi>
+            </head>
+            <p>THE ſaid Corporations, Markets, and Market-Towns (which are the Wombs of Trade) do encreaſe their Reſpective Trades and Values, ac<g ref="char:EOLhyphen"/>cording to the Incouragement they receive by Mutual Commerce; and that Commerce receives its Bounds and Improvement from ſuch Regu<g ref="char:EOLhyphen"/>lations as our former Laws have aim'd at and intended, tho' ſome Dif<g ref="char:EOLhyphen"/>ficulties have been found in putting the ſame in Execution; partly for want of a right Underſtanding by the Conſtables and other Officers, and Perſons concerned, but moſt of all by Reaſon of the Charge and Trouble that attends the Proſecution of them, eſpecially againſt Rogues and Vagabonds; moſt Perſons imagining, that others enough will Contribute without them; and ſo every Bodies Buſineſs becomes no Bodies, and the whole Suffers.</p>
+            <p>For ſo it is by the preſent Irregularities of <hi>Pedling</hi> and <hi>Hawking</hi> by Foot and Horſe-Packmen, and ſuch Wandring and Unaccountable Perſons, who pretend to ſell by Re<g ref="char:EOLhyphen"/>tail or by Wholeſale, That</p>
+            <p n="1">I. They can neither themſelves be duly Tax'd or made Serviceable to the Offices and Duties of the Publick; but on the contrary, they carry away the Straw, and leave others to make the Bricks without it.</p>
+            <p n="2">II. They Undermine, Diſcourage and Ruin many Thouſands of Honeſt, Lawful, Settled Traders and Manufacturers, and their numerous Families, by which</p>
+            <p n="3">III. They cauſe great Impoveriſhment and Devaſtations in the ſaid Markets and Towns, and conſequently the Diſimprovements and Downfal of the Rents and Profits both in, about, and near the ſame: For how can the Towns ſubſiſt to take off the Product of the Countrey, and receive back no Advantage by Trade from it?</p>
+            <p n="4">IV. They are the occaſion of Making, Vending, and Diſperſing Uncuſtomed, Im<g ref="char:EOLhyphen"/>perfect and Deceitful Wares, falſe News, ſecret Plots, and pernicious Books; and alſo,
+<pb n="6" facs="tcp:103151:5" rendition="simple:additions"/> of Deceiving, Abuſing, and ſometimes of Robbing and Deſtroying Their Majeſties Good Subjects, and Corrupting their Servants.</p>
+            <p n="5">V. Of the great hindrance of Their Majeſties Revenue in their Taxes, Cuſtoms, Exciſe, and Poſtage of Letters, eſpecially croſs the Countreys, and of the ſafety of Families, and of the Peace and good Government of the whole Kingdom.</p>
+            <p n="6">VI. Of the hindrance and diſcouragement of ſerving Apprenticeſhips, and thereby Expoſing Youth, for want of lawful Callings, to great Hazards and Misfortunes, and but too often to untimely Ends.</p>
+            <p n="7">VII. Of the preventing of good Neighbourhood and mutual Credit, and conſe<g ref="char:EOLhyphen"/>quently the Conſumption of Goods and Commodities of Engliſh Growth and Manu<g ref="char:EOLhyphen"/>factures, by deſtroying the right and lawful Markets, and preventing Inveſtments of Stocks in Goods, by proper and able Tradeſmen.</p>
+            <p n="8">VIII. Of the rendring uſeleſs both Merchants, Shop-keepers, Artificers, Ships of Burthen and Trade to Remote Parts, as is moſt clearly made out at large, and conſe<g ref="char:EOLhyphen"/>quently thereby,</p>
+            <p n="9">IX. Of making this moſt Noble and Potent Iſland, the which ſubſiſts chiefly by Trade, more weak, and the more obnoxious to the Power of <hi>France,</hi> and all the reſt of its Enemies.</p>
+            <p>
+               <hi>The deep ſenſe of the Premiſes, hath cauſed many Applications and Petitions from all Parts of the Kingdom, to their reſpective Members, and to the Parliament for Redreſs. Whereupon when a former was loſt, a new</hi> BILL <hi>to prevent the Decay of Trade in Cities, Corpora<g ref="char:EOLhyphen"/>tions and Towns, was Elaborately Compoſed and Proſecuted by the Help and Favour of the Right Honourable the preſent</hi> Lord-Keeper, <hi>and ſome other Worthy Members: But be<g ref="char:EOLhyphen"/>cauſe the Delays and Difficulties we met with, are unſpeakable; We ſhall only ſay, That our</hi> BILL <hi>was at laſt thrown out by the</hi> Lords, <hi>to our great Loſs and Diſappointment. Yet, we hope, the longer their Honours and Lordſhips Conſider of this Matter, the more Favoura<g ref="char:EOLhyphen"/>ble they will be to us when another Opportunity ſhall offer to renew our humble Applications for the ſame Bill.</hi>
+            </p>
+            <p>
+               <hi>The Petitioners againſt the</hi> Bill <hi>were but only Six</hi> Linnen-Drapers,
+<hi>whoſe Petition was thus Entituled,</hi> Viz. The Humble Petition of ſeveral
+<hi>Linnen-Drapers</hi> and other Whole<g ref="char:EOLhyphen"/>ſale Dealers in and about the City of <hi>London,</hi> in behalf of themſelves and others of the ſame Trades, who Pray'd to be heard, by the Committee, in what they had to offer againſt the Bill; <hi>which was a Clauſe they had prepar'd to get into our</hi> Bill, <hi>and in effect to Eſtabliſh all</hi> Pedling <hi>and</hi> Hawking by Law; <hi>and this they will ever Attempt, on all Occaſions which ſhall be offer'd, but after that, was then prevented, what Reaſons they Alledged, was look'd upon by the</hi> Committee
+<hi>to be but very inſignificant, and chiefly for Delay. They afterwards purſued the ſame Deſigns in the</hi> Houſe; <hi>and we hear, that againſt the next</hi> Seſſion of Parliament, <hi>they deſign to get into their own hands the Manage<g ref="char:EOLhyphen"/>ment of our</hi> BILL,
+<hi>that they may with leſs difficulty model it for their own Purpoſe. One of their Reaſons in Print to the</hi> Lords, <hi>indeed was a ſtrange one, eſpecially from Shop<g ref="char:EOLhyphen"/>keepers,</hi> Viz. That if the Shop-keepers ſhould be ſo much Indulged as to have their Bill Paſs, then there would be none to follow any Laborious Employment; for then it was but for a Man to put his Son Apprentice to a Countrey Mercer, and he might be ſure to get an Eſtate, and to live in all the Plenty, Eaſe, and Luxury imaginable.</p>
+            <p>
+               <hi>After the loſs of the</hi> Bill <hi>in Parliament, We did, by Advice of Councel, get Collected, and plainly Abridged, all the former Statutes in force againſt</hi> Pedlers,
+<hi>&amp;c. and Publiſhed the ſame, which now, with ſome Explanations and Directions, as we promiſed, are Re-prin<g ref="char:EOLhyphen"/>ted as followeth. In the mean time, the</hi> Pedlers <hi>and</hi> Hawkers
+<hi>are by fit Arguments already Convinced, That the new Law we entreated for in Parliament, was more favourable to them than the old ones.</hi>
+            </p>
+         </div>
+         <div type="abridgement">
+            <pb n="7" facs="tcp:103151:5"/>
+            <head>A Plain Abridgment of ſeveral Statutes in force, which may be Effectually put in Execution againſt all <hi>Pedlers, Hawkers,</hi> and other <hi>Unlawful Traders;</hi> together with the Opinion of <hi>Learned Councel</hi> touching the ſame.</head>
+            <p>
+               <hi>BRaſs</hi> and <hi>Pewter-Wares,</hi> by being carried about and ſold Clandeſtinely, were Made Falſe and Deceitful; for Prevention whereof, it was Enacted by the 19 <hi>Hen.</hi> VII. <hi>Cap.</hi> 6. That no <hi>Pewter</hi> or <hi>Braſs-Wares</hi> whatſoever, ſhould be Sold or Changed by any Perſon uſing the Trade of <hi>Pewterers</hi> or <hi>Braſiers,</hi> but only in open Fairs or Markets, or in their own Dwelling-Houſes, on Forfeiture of Ten Pounds to the King for every Offence: <hi>This Statute being found to be of great Benefit, was</hi> per 4 Hen. VIII. Cap. 7. <hi>again Confirm'd and Ordain'd to Endure for Ever.</hi>
+            </p>
+            <p>That whereas the Cities, Burroughs, Towns Corporate, and Market-Towns, did heretofore Flouriſh, and were highly ſerviceable to the Government, but were brought to great Decay, and were like to come to utter Ruin and Deſtruction, by Reaſon that Perſons Dwelling out of the ſaid Cities and Towns, came and took away the Re<g ref="char:EOLhyphen"/>lief or Subſiſtance of the ſaid Cities and Towns, by ſelling their Wares there: For Remedy whereof, be it Enacted, <hi>&amp;c.</hi> That no Perſon or Perſons Dwelling any where out of any of the ſaid Cities or Towns (the Liberties of the Two Univerſities only excepted) ſhall hereafter ſell or cauſe to be ſold by Retail, any Woollen or Linnen-Cloth (except of their own Making) or any Haberdaſhry, Grocery, or Mercery-Wares whatſoever, at or within any of the ſaid Cities, Burroughs, Towns Corporate, or Market-Towns within this Realm (except it be in open Fairs) on pain to Forfeit and Loſe for every time ſo Offending 6 <abbr>
+                  <hi>s.</hi>
+               </abbr> 8 <abbr>
+                  <hi>d.</hi>
+               </abbr> and the whole Wares to be ſold, proffered or offered to be ſold; the one Moiety of all which Forfeitures to be to the uſe of the King and Queen, and the other Half to him or them that ſhall Seize or Sue for the ſame in any of Their Majeſties Courts of Record, by Plaint, Action of Debt, Information, or otherwiſe, wherein no Eſſoin, Protection, or Wager of Law ſhall be allowed, 1, 2
+<hi>Philip</hi> and <hi>Mary, Cap.</hi> 7. So that,</p>
+            <p>If any Perſon whatſoever, Dwelling out of your Towns, comes into your Towns or Markets, and ſets up a Stall, or walks or ſtands in the Street, or keeps a Room or Shop (which he Reſides not at conſtantly;) if there he ſells by Retail any of theſe ſorts of Goods, <hi>Viz.</hi> Any kind of Woollen or Linnen-Cloth (except it be of his own Making) or any ſort of Haberdaſhry, Grocery, or Mercery-Wares whatſoever, he doth Incur the Penalty of this Statute. Note, <hi>That Expoſing to Sale, is ſetting a Price, Hemging, Lying, or being carried about in a poſture of ſelling, Hoſe or Haberdaſhry, or Mercery-Wares, and all dry Goods whatſoever, that are either worn or uſually carried about a Man, are generally included in this Statute; and on Tryal may be ſo proved. The Goods, after you can prove any part thereof ſold, are all the reſt to be ſeized by any Perſon whatſo<g ref="char:EOLhyphen"/>ever, that will proſecute and recover the</hi> 6 <abbr>s.</abbr> 8 <abbr>d.</abbr> 
+               <hi>a time for every ſuch Offence; to do which, he muſt (with or without a Warrant) take a Conſtable and ſeize, and let the Goods be wrapp'd and ſeal'd up, and left in the hands of the Conſtable, to be produced at the Tryal, that thoſe were the very Goods which were ſome part ſold out, and the reſt expos'd to ſale, as above, in ſuch a place; and that the ſeller dwelt in ſuch other place, or at leaſt not in that Town or Pariſh where part of the Goods were ſo ſold. If the Offender brings his Action, you may Plead the ſaid Statute.</hi>
+            </p>
+            <p>And be it alſo further Enacted, That all <hi>Tinkers, Pedlers,</hi> and <hi>Petty Chapmen</hi> Wan<g ref="char:EOLhyphen"/>dering abroad, <hi>&amp;c.</hi> ſhall be Taken, Judged, and Deemed Rogues and Vagabonds, and ſhall Suſtain all Puniſhment, as by this Act is appointed, <hi>viz.</hi> That every ſuch Perſon as ſhall be found Begging, Vagrant, or Wandring in any part of this Realm, or the Do<g ref="char:EOLhyphen"/>minion
+<pb n="8" facs="tcp:103151:6"/> of <hi>Wales,</hi> ſhall upon their Apprehenſion by any Juſtice of the Peace, or Con<g ref="char:EOLhyphen"/>ſtable, or Headburrough, or Tithing-Man of the ſame County, Hundred, Tithing, or Pariſh where ſuch Perſons ſhall be taken (the Tithing-Man or Headburrough being Aſſiſted therein with the Advice of the Miniſter and ſome one other of that Pariſh) ſhall cauſe the Offender to be ſtripped Naked from the Middle upwards, and to be openly Whipped until his or her Body be Bloody; and ſhall be forthwith ſent, by a Teſtimo<g ref="char:EOLhyphen"/>nial, from Pariſh to Pariſh by the Officer of every the ſame, the next way to the Pariſh where he or ſhe was Born or laſt Dwelt; and for want of one of thoſe Places being known, then to the Pariſh thro' which he or ſhe laſt paſſed without Puniſhment, there to abide and behave him, or her ſelf as a good Subject ought to do; And if the ſaid Perſon do not accordingly, then to be again taken and Whipped in every Place, ſo often as Default ſhall be found in him or her, contrary to the Form of this Statute; The Miniſter ſhall Regiſter the Subſtance of the Teſtimonial in a Pariſh-Book for that purpoſe, upon pain to Forfeit Five Shillings for every Default. 39 <hi>Eliz.</hi> 4.</p>
+            <p>
+               <hi>It is a Trader Wandring abroad, who either hath no lawful and ſettled Habitation, or elſe doth Wander from it to ſell, or expoſe any Wares to ſale, that makes or deſcribes a</hi> Pedler <hi>or</hi> Petty-Chapman, <hi>as appears by the Exception for</hi> Glaſs-Men,
+<hi>who might then wander by Licence; but that Clauſe being ſince repealed, by</hi> 1 Jac. I.
+<hi>Cap.</hi> 7. Note therefore, <hi>That now all Licences for</hi> Pedling <hi>or</hi> Hawking,
+<hi>are againſt Law: The</hi> Pedlers <hi>are either Horſe or Foot, greater or ſmaller; the Law has made no Diſtinction between them, but if they Wander Abroad, or about from one place to another, or are taken Wandring, whether nearer their Habitations (if they have any) or further off from it, they are Obnoxious alike: And tho' they have (for want of due Proſecution) grown much bigger ſince this Law was made, yet on Tryal they will find the Law ſtill too big for them; and it is as much the Duty of every Conſtable and other Officer, to cauſe the</hi> Horſe-Pedlers
+<hi>to be Whipped as the</hi> Foot-Pedlers <hi>or</hi> Petty-Chapmen; <hi>for the greater the</hi> Pedler, <hi>the greater the Offender, and the more Miſchief to the Publick: And it is a vulgar Error, That a</hi> Pedler <hi>may Travel about ſo far as he may return home at Night, or that he may ſo Wander about becauſe he is a Houſe<g ref="char:EOLhyphen"/>keeper. No, every ſuch Wandring Perſon muſt be taken up in any Place where he can be found Wandring, by a Juſtice or by a Conſtable, or by any other Officer, as the Statute doth Direct, with a Warrant or without a Warrant; nay, tho' there be neither Juſtice or Con<g ref="char:EOLhyphen"/>ſtable preſent: If he appear to be ſuch a Wanderer, he muſt forthwith,</hi> viz. <hi>On his Appre<g ref="char:EOLhyphen"/>henſion be Dealt with and Puniſhed by the Headburrough or Tithing-Man, and forwith paſs'd away as the Statute doth direct: If the Conſtable, or other Officer cannot cauſe the Law to be Executed by Commanding ſome Inferiour Officer, or other Perſon to do it, he muſt do it himſelf, and ſo as the Statute Directs; or he incurs not only the Penalty of</hi> 10 <abbr>s.</abbr> 
+               <hi>by this Statute, and</hi> 20 <abbr>s.</abbr>
+               <hi>by</hi> 14 Car. II. <hi>Cap.</hi> 12. <hi>but breaks his Oath as a Conſtable.</hi>
+            </p>
+            <p>Yet it was by this Act Provided, That <hi>Glaſs-Men</hi> that Wandered by Licence, from two Juſtices of the Peace, were excepted and permitted to Travel: <hi>But it was ſoon found, thereupon, That ſo many Notorious Rogues took upon them to Exerciſe the Trade of</hi> Glaſs-Men, <hi>and did Wander and Travel about divers Countreys, and commit many petty Fellonies, for which Reaſon,</hi> 1 Jac. I. Cap. 7. <hi>That Clauſe was Repealed.</hi> And all Perſons Wandring up and down to ſell Glaſſes, are again to be Adjudged and Taken as Rogues and Vagabonds, and to be Puniſhed accordingly, <hi>as by the Act of</hi> 39 Eliz. Cap. 4.</p>
+            <p>
+               <hi>This Statute of</hi> 1 Jac. I. Cap. 7. <hi>moſt plainly ſhews the meaning of the other,</hi> viz. <hi>Who are to be Deem'd and Puniſhed as Rogues and Vagabonds; and that by</hi> Pedlers <hi>and</hi> Petty-Chapmen <hi>are mean'd</hi> Traders, <hi>and ſuch as Carry and Wander about with Goods to ſell; and that thoſe very Men (without Diſtinction) are to be Deemed and Puniſhed as Rogues and Vagabonds; otherwiſe how came the</hi> Glaſs-Men <hi>to be Concerned: And if ſome of thoſe</hi> Pedlers <hi>are ſo willful that they will not be reclaim'd from ſuch a Diſorderly
+<pb n="9" facs="tcp:103151:6" rendition="simple:additions"/> courſe of Life, let them ſee what follows in the next Paragraph, beſides ſome other very Se<g ref="char:EOLhyphen"/>vere Statutes not here mentioned.</hi>
+            </p>
+            <p>Provided further, That if any ſuch Perſon ſhall appear to be Dangerous, or ſuch as will not be Reformed, then it may be Lawful for any Two Juſtices of the Peace of that Limit (one to be of the <hi>Quorum</hi>) to Commit him to the Houſe of Correction or the Goal of the County, till the next Seſſions, where the Juſtices may Lawfully Ba<g ref="char:EOLhyphen"/>niſh him out of this Realm; and if he returns back without Licence, he is to ſuffer as a Felon, 39 <hi>Eliz.</hi> 4.</p>
+            <p>If in any Town, Pariſh, or Village, the Conſtable, Headburrough, or Tithing-Man, do neglect to do his or their Duty, touching the Execution hereof, he ſhall Forfeit and Loſe 10
+<abbr>
+                  <hi>s.</hi>
+               </abbr> for every Omiſſion, and by 14 <hi>Car.</hi> II. <hi>Cap.</hi> 12. he ſhall For<g ref="char:EOLhyphen"/>feit 20 <abbr>
+                  <hi>s.</hi>
+               </abbr> And if any Perſon doth Lett or Diſturb the Execution hereof, he ſhall For<g ref="char:EOLhyphen"/>feit 5 <abbr>
+                  <hi>l.</hi>
+               </abbr> to the uſe of the City or Town, to be Levied by the Juſtices Warrant, and ſhall be bound to the good Behaviour, 39 <hi>Eliz. Cap.</hi> 4.</p>
+            <p>
+               <hi>If you ſee a</hi> Pedler, <hi>&amp;c. you are to ſtay him, and call and ſend for a Conſtable or other Officer; and if any of them Refuſe or Neglect to come and do his Duty; or if any Perſon doth lett or hinder them, then on your Complaint to the Juſtice, he will grant you his Warrant to Levy the Forfeiture by Diſtreſs on the Parties Goods, which are to be Appraiſed and Sold, and the Overplus, all Charges Deducted, is to be Reſtor'd to the Owner.</hi>
+            </p>
+            <p>Provided always, That if there be any Juſtice or Juſtices of the Peace for the ſaid Cities, Burroughs, or Towns Corporate, that no other Juſtice or Juſtices of the Peace ſhall intermeddle with the Execution of any Branch of this Act, for any Offence or Mat<g ref="char:EOLhyphen"/>ter ariſing within the Liberties of ſuch Cities or Towns Corporate, but the Juſtice or Juſtices for the ſame, with the Mayor, Bailifs, and other Head-Officers, may proceed within their Liberties to the Execution of this Act, with as full Power as the Juſtices in any County may do within the ſame,
+39 <hi>Eliz.</hi> 4.</p>
+            <p>And be it further Enacted by, <hi>&amp;c.</hi> That hereafter, <hi>&amp;c.</hi> It ſhall not be Lawful to any Perſon or Perſons, other than ſuch as now do lawfully Uſe or Exerciſe any Art, Myſtery, or Manual-Occupation, to ſet Up, Occupy, Uſe, or Exerciſe any Art, Craft, Myſtery, or Occupation now Uſed or Occupied within the Realm of <hi>England</hi> or
+<hi>Wales,</hi> except he or ſhe ſhall have been brought up therein an Apprentice for S<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ven Years, at the leaſt; and that every Perſon Offending or doing the Contrary, ſhall Forfeit and Loſe for every Default 40
+<hi>
+                  <abbr>s.</abbr> per</hi> Month, half to the Queen, and half to the Perſon that will Sue for the ſame; in which no Protection, Wager of Law, or Eſſom ſhall be Allowed; and the Mayor or other Head-Officers of Cities or Towns Corporate, ſhall have full power to Hear and Determine the ſame, and make Proceſs, and Award Execution. <hi>vide Statute,</hi> 5 Eliz. 4.</p>
+            <p>
+               <hi>This Statute doth extend to Merchants; (as by a foregoing Clauſe in the ſame Act) and therefore to all Traders, and to all Places whatſoever within this Kingdom.</hi>
+            </p>
+            <p>Whereas great Inconveniencies do happen for want of due Execution of the Laws that have been made againſt Rogues and Vagabonds; and becauſe Conſtables and Others may be at great Charge in Proſecuting the ſaid Laws: Therefore, the ſaid Conſtables and other Officers ſo out of Purſe, together with the Church-Wardens of any Pariſh, have power to make a moderate Rate, and Tax all Occupiers of Land, and all other Inhabitants or Perſons Chargeable; and lawfully may Diſtrain for the ſame to reimburſe themſelves, <hi>ut per Stat.</hi> 14 Car. II.
+<hi>Cap.</hi> 13.</p>
+            <p>
+               <pb n="10" facs="tcp:103151:7" rendition="simple:additions"/>
+               <hi>Obſerve how ſtrictly all Perſons are obliged to Contribute for and towards the Charge of putting theſe Statutes in Execution.</hi>
+            </p>
+            <p>If a Conſtable or other Officer or Proſecutor carries a Rogue or Vagabond before a Juſtice of the Peace, the ſaid Juſtice is to Authorize him or them to receive 2
+<abbr>
+                  <hi>s.</hi>
+               </abbr> from the Officers of any other Pariſh thro' which the Offender laſt paſſed, without Puniſh<g ref="char:EOLhyphen"/>ment, and ſo for every Rogue, <hi>ut per Stat.</hi> 14. Car. II.
+12.</p>
+            <p>
+               <hi>By theſe Words,</hi> If, &amp;c. <hi>It's alſo plain, That a Conſtable or other Officer may Proſecute or Puniſh ſuch Offenders, without carrying them before a Juſtice; and where the Offence is plain, it is not reaſonable to give the Juſtice ſo much trouble, when the Law hath not enjoyn'd it; nor can the Favour of a Juſtice Acquit the Conſtable from his Forfeiture, if the Offender eſcapes unpuniſhed.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="proforma">
+                        <head>The Manner of a <hi>TESTIMONIAL.</hi>
+                        </head>
+                        <p>THIS may Certifie all whom it may Concern, That <hi>A. B. P.</hi> being here found
+<gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap> hath been Whipped, according to the Statute, and is to be ſent, forward, forthwith from Pariſh to Pariſh by the Officers of every the ſame, the next way to
+<gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap> where he laſt <gap reason="blank" extent="1 word">
+                              <desc> _____ </desc>
+                           </gap>
+                        </p>
+                        <closer>
+                           <dateline>Given under our Hands and Seals
+<date>this <gap reason="blank" extent="1 word">
+                                    <desc> _____ </desc>
+                                 </gap> Day of <gap reason="blank" extent="1 word">
+                                    <desc> _____ </desc>
+                                 </gap> 169</date>
+                           </dateline>
+                           <signed>To be Signed by the Juſtice, or Conſtable, or Headburrough, and Tithing-Man.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>And alſo, The Proſecutors Charge is to be paid out of the 20 <abbr>
+                  <hi>s.</hi>
+               </abbr> Forfeiture of the Neglecting Officers, <hi>ut per Stat.</hi> 14 Car. II. 12.</p>
+            <p>
+               <hi>As it is in the Power of the City of</hi> London, <hi>by Vertue of their Charter, to make for them<g ref="char:EOLhyphen"/>ſelves Acts for the Re-inforcement of the Statute-Laws, and to make any reaſonable By-Laws</hi>
+               <note n="*" place="margin">8 Part <hi>Cook</hi>'s <hi>Rep.</hi> fol. 121. Caſe of
+<hi>London,</hi> 7 <hi>Jac.</hi> I. 5 Part ditto, fol. 64. <hi>Clark</hi>'s Caſe fol. 64. 38
+<hi>Eliz. Hubert</hi>'s Rep. fol. 210. <hi>Nor<g ref="char:EOLhyphen"/>ris</hi> againſt <hi>Staps</hi> at
+<hi>Newbury,</hi> 14 <hi>Ja.</hi> 1.</note> 
+               <hi>(not contrary to the Statute-Laws) for the better Regulation and Improvement of their Trade and Good Government; ſo it is generally in the Power of all other Ci<g ref="char:EOLhyphen"/>ties, Burroughs, and Towns Corporate throughout</hi> England <hi>and</hi> Wales
+<hi>(if they Choſe Good Magiſtrates) to do the ſame by Vertue of their Charters:</hi> Lon<g ref="char:EOLhyphen"/>don
+<hi>hath now done it by the</hi> Precedent Act of Common-Councel.</p>
+            <p>
+               <hi>And what Occaſion there is for others to follow their Example, they Themſelves Reſpe<g ref="char:EOLhyphen"/>ctively are the beſt Judges, eſpecially whilſt they ſee that the Law without Execution, is but a dead Letter.</hi>
+            </p>
+            <p>
+               <hi>Therefore being Deſired by ſeveral Corporations, Companies, and Traders in</hi> London
+<hi>and elſewhere; we ſhall give ſome ſhort Account of the Methods of Proceeding in and about</hi> London, <hi>upon our former Statutes.</hi>
+            </p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="order">
+                        <head>At a <hi>General Seſſions</hi> of the <hi>Peace</hi> held by the <hi>Juſtices</hi> at
+<hi>Hicks's-Hall</hi> in the County of <hi>Middleſex,</hi> was made the following <hi>Order, Viz.</hi>
+                        </head>
+                        <p>WHEREAS this Court is Informed, That great Numbers of <hi>Scotch</hi> and other <hi>Pedlers</hi> and <hi>Petty Chapmen,</hi> do Wander Abroad up and down this City and County, contrary to Law; We do hereby Recommend it to the Reſpective Juſtices of the Peace of this County, to take Effectual Care to put the Laws in Execution againſt the ſaid <hi>Pedlers</hi> and <hi>Petty Chapmen;</hi> And all the Conſtables and Tithing-Men in their Reſpective Precincts are required, ſo often as they ſhall find any of the ſaid Offenders, immediately to Whip them, in ſuch manner as the Statutes of 39 <hi>Eliz. Cap.</hi> 4. and the 1 <hi>Jac. Cap.</hi> 7. Directs, and in Default whereof, the Penalties of the ſaid Statutes are hereby Appointed to be Levied upon them.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <pb n="11" facs="tcp:103151:7"/>
+               <hi>The preſent</hi> Lord Mayor, Recorder, <hi>and other</hi> Juſtices
+<hi>within this</hi> City, <hi>and the preſent</hi> Recorder, <hi>and other</hi> Juſtices
+<hi>for</hi> Weſtminſter, Middleſex, Surry, Kent, <hi>and</hi> Eſſex, <hi>with<g ref="char:EOLhyphen"/>out the City, have Iſſued out their Warrants, ſtrictly Commanding all Conſtables,</hi> &amp;c.
+<hi>at their Perils, from time to time, and as often as they ſhall be thereunto Required, and as often as they ſhall ſee or have Notice of any</hi> Pedlers, Hawkers, <hi>and</hi> Petty Chapmen
+<hi>Wandring about, to Apprehend them, and every of them, to the end, they may be Dealt with according to Law.</hi>
+            </p>
+            <p>
+               <hi>And accordingly, ſeveral ſuch Offenders have been both formerly and of late Whipped in and about</hi> London, <hi>and divers other parts of this Kingdom; alſo, ſome of the greater and richer ſort of them have been, and now are Proſecuted at Law, where they uſe Chargeable Shifts to Defend Themſelves and their Party, but if followed, are generally Convicted to be Rogues and Vagabonds, as by that Famous Preſident Recorded in</hi> Roll<hi>'s</hi> Second Reports, <hi>fol.</hi> 172. <hi>Viz.</hi> The King againſt <hi>Hollingsworth,</hi> who Dwell'd at
+<hi>Branford,</hi> and Wandered about to Sell Wares at <hi>Hackney</hi> and other places, was upon a very notable Trial, after many Evaſions, Convicted upon the Statute of 39 <hi>Eliz. Cap.</hi>
+4. <hi>&amp;c. as by the ſaid Re<g ref="char:EOLhyphen"/>ports doth at large appear.</hi>
+            </p>
+            <p>
+               <hi>Several Companies and Citizens met together, divers times, in</hi> February <hi>laſt, and Conſi<g ref="char:EOLhyphen"/>dered and Agreed what Courſes to take for Redreſs, and in due time the following Petition was Prepared,</hi> Viz.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="petition">
+                        <head>To the <hi>Right Honourable the Lord Mayor, Aldermen,</hi> and <hi>Commons</hi> in
+<hi>Common-Councel</hi> Aſſembled.</head>
+                        <head type="sub">The <hi>Humble Petition</hi> of the <hi>Shop-keepers</hi> and <hi>Inhabitants</hi> of the <hi>City</hi> of <hi>London,</hi> and the <hi>Liberties</hi> thereof</head>
+                        <opener>Sheweth,</opener>
+                        <p>THAT whereas your Petitioners, being Freemen of this City, do bear Offices, pay great Rents and Taxes, and Cheerfully Aſſiſt in the Support of the Govern<g ref="char:EOLhyphen"/>ment on all Occaſions; and do generally Subſiſt by their Reſpective Trades, and are content to abide in their own Stations, and Exerciſe their ſaid Trades in ſuch manner as the Laws and Cuſtoms of this City doth permit; yet ſo it is, nevertheleſs, That for want of due Execution of the ſeveral good Laws heretofore Provided for their Relief; the Courſe whereof hath ſince been Obſtructed, by Reaſon of an Illegal Patent ob<g ref="char:EOLhyphen"/>tained from King <hi>James</hi> II. That therefore your Petitioners, in moſt places within this City and the Liberties thereof, are ſo Diſcouraged, and Undermined, and Abuſed in their Reſpective Trades, by the Inſolent and Unlawful Practices and daily Increaſe of <hi>Pedlers, Hawkers,</hi> and <hi>Petty Chapfolks,</hi> ſuch as Wander about from place to place, and carry and proffer to Sale all kinds of ſuch Goods and Wares as your Petitioners Deal in; ſo that great part of the good Citizens and Settled Inhabitants of this City will not be able to pay their Rents, Taxes, and other Charges Incumbent; and Them<g ref="char:EOLhyphen"/>ſelves and their families will ſoon fall into inevitable Decay and Ruin, if not timely prevented.</p>
+                        <p>Therefore, the Petitioners do humbly pray, That now the Charter being Reſtored, ſo the antient Cuſtoms and preſent Laws of this City and Kingdom, may by an Act of Common-Councel be re-inforced and put in Execution againſt <hi>Pedlers, Hawkers, Petty Chapmen,</hi> and all other
+<hi>
+                              <g ref="char:V">Ʋ</g>nlawful Traders,</hi> in ſuch manner as in your Grave Wiſdom may be thought moſt Effectual.</p>
+                        <closer>
+                           <signed>
+                              <hi>And Your Petitioners ſhall ever Pray,</hi> &amp;c. <hi>Sign'd by about</hi> One Hundred <hi>very</hi> Eminent Citizens, <hi>and Preſented.</hi>
+                           </signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <pb n="12" facs="tcp:103151:8" rendition="simple:additions"/>
+               <hi>The Petition being Read, a</hi> Committee <hi>of Four</hi> Aldermen
+<hi>and Eight</hi> Commoners <hi>were appointed to prepare and bring in a</hi> BILL <hi>purſuant to the Prayer of the Petition.</hi>
+            </p>
+            <p>
+               <hi>Which in due time was accordingly done, and then Read the Firſt, and afterwards a Se<g ref="char:EOLhyphen"/>cond Time, and Committed to the ſaid</hi> Committee, <hi>with the Addition of more</hi> Aldermen
+<hi>and</hi> Commoners <hi>to the former; who, after very many Meetings and Deliberate Advice with divers</hi> Eminent Councel, <hi>the ſaid</hi> Committee <hi>gave in their Report to this Effect,</hi> Viz.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="report">
+                        <head>
+                           <hi>To the</hi> Right Honourable the Lord Mayor, Aldermen, <hi>and</hi> Commons <hi>in</hi> Common-Councel <hi>Aſſembled.</hi>
+                        </head>
+                        <p>WE, whoſe Names are here under-written, have in Obedience to an Order of this Honourable Court, made the 12th Day of <hi>April</hi> laſt, Met ſeveral times, and Conſidered the Petition of the <hi>Shop-keepers</hi> and <hi>Traders</hi> of this City, for Suppreſſing of
+<hi>Pedlers, Hawkers,</hi> and <hi>Petty Chapmen,</hi> which we find to be a very great Prejudice to moſt of the <hi>Traders</hi> of this City, and tends very much to the Weakning and Impoveriſhing the ſame.</p>
+                        <p>Therefore in purſuance of the ſaid Order (having) Advis'd with, and had the Opinions of divers <hi>Learned Councel,</hi> we have well Conſidered the <hi>BILL</hi> hereunto Annexed, for the more Effectual putting the Laws in Execution againſt all ſuch Offenders; which ſaid
+<hi>BILL</hi> we humbly Preſent to this Court, Deſiring (if it ſhall be thought fit) that the ſame may be Paſſed into <hi>An Act of Common-Councel:</hi> All which we humbly Submit to the Grave Wiſdom of this Honourable Court.</p>
+                        <p>
+                           <hi>The</hi> Councel <hi>with whom the</hi> Committee <hi>did Adviſe, touching the ſaid</hi> BILL, <hi>were principally theſe,</hi> viz. <hi>They had, firſt of all, in ſome Eſſential Parts of the</hi> BILL, <hi>the Opinion of Sir</hi> George Treby, <hi>late</hi> Recorder <hi>of the City of</hi> London, Attorney-General, <hi>and now</hi> Lord Chief Juſtice <hi>of the</hi> Common-Pleas; <hi>The preſent</hi> Attorney-General Ja. Ward; <hi>Sir</hi> Bartholomew Shower;
+<hi>Sir</hi> Salathiel Lovell <hi>the preſent</hi> Recorder; <hi>Sir</hi> Francis Pemberton;
+<hi>Mr.</hi> Common Sergeant; <hi>and others of the City-Councel.</hi>
+                        </p>
+                        <p>
+                           <hi>Then a</hi> Common-Councel <hi>being called, the</hi> BILL <hi>(and the Report) being Preſented and Read the Third Time in Court, after ſome Amendments, the ſame was Paſſed into an</hi> ACT.</p>
+                        <p>☞Several <hi>Corporations, Companies,</hi> and <hi>Traders</hi> in <hi>London</hi> and elſewhere, have for the general Good of the Publick, Authorized and Deſired <hi>Richard Holt,</hi> Citizen and Merchant of <hi>London,</hi> and <hi>Company,</hi> at his Houſe in
+<hi>Biſhopſgate-Street,</hi> near <hi>Cornhill;</hi> from time to time to procure Advice, and all Aſſiſtance Lawful and Neceſſary, for and towards putting the above-mentioned Laws in Execution, and to Anſwer all Letters touching the ſame; in whoſe hands there will be ſome Overplus of Money, which is to be Employed to Reim<g ref="char:EOLhyphen"/>burſe and Defend all Officers and other Proſecutors of the ſaid Laws, in all Places where they have Subſcribed towards the late general Charge thereof.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>A</hi> LIST <hi>of the</hi> Pedler's Friends <hi>in</hi> London, <hi>will be ſeen in due time.</hi>
+            </p>
+         </div>
+         <div type="colophon">
+            <p>LONDON: <hi>Printed and are to be ſold by</hi> Brab. Aylmer <hi>at the</hi> Three Pidgeons
+<hi>in</hi> Cornhill, <hi>over againſt the</hi> Exchange; William Miller <hi>at the</hi> Achorn
+<hi>in</hi> St. Paul's Church-Yard; <hi>and</hi> William Rogers <hi>at the</hi> Sun <hi>in</hi> Fleet-Street, <hi>over againſt</hi> St. Dun<g ref="char:EOLhyphen"/>ſtan's Church; <hi>and by ſeveral other</hi> Bookſellers. 1693.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
